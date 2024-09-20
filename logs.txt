@@ -1,0 +1,46 @@
+Program Started. Updating and Createing Data in Odoo API System
+Basic information:
+{'host': 'https://demo6.odoo.com', 'database': 'demo_saas-174_4f64f864837b_1726716023', 'user': 'admin', 'password': 'admin'}
+================================
+Fetching Version Data to Test Connection...
+Connected Version Info:
+{'server_version': 'saas~17.4+e', 'server_version_info': ['saas~17', 4, 0, 'final', 0, 'e'], 'server_serie': 'saas~17.4', 'protocol_version': 1}
+================================
+Fetching Unique ID#
+Unique Identification Number:[2]
+================================
+Starting Data Updates
+================================
+Retrieving Entry ID for: Abigail Peterson
+ID Recieved:[[46]]
+Sending Update Data: {"id": [46], "name": "Abigail Peterson", "phone": "+1 (930) 719-8403", "address": "332 Aviation Way, Los Angeles, CA 90017"}================================
+Retrieving Entry ID for: Anita Oliver
+ID Recieved:[[54]]
+Sending Update Data: {"id": [54], "name": "Anita Oliver", "phone": "+1 (479) 340-6265", "address": "2871 Park Avenue, Rancho Cordova, CA 95742"}================================
+Retrieving Entry ID for: Billy Kyle
+ID Recieved:[[90]]
+Sending Update Data: {"id": [90], "name": "Billy Kyle", "phone": "+1 (990) 741-1321", "address": "92 Holden Street, San Diego, CA 92105"}================================
+Retrieving Entry ID for: Eli Lambert
+ID Recieved:[[48]]
+Sending Update Data: {"id": [48], "name": "Eli Lambert", "phone": "+1 (864) 792-5015", "address": "1792 Liberty Avenue, Pomona, CA, 91766"}================================
+Retrieving Entry ID for: Marc Demo
+ID Recieved:[[43, 7]]
+Sending Update Data: {"id": [43, 7], "name": "Marc Demo", "phone": "+1 (779) 623-8202", "address": "2999 Francis Mine, Sacramento, CA 95814"}================================
+Adding New Data
+================================
+New Data Added: {"name": "Bruce Wayne", "phone": "+1 (555) 555-0001", "contact_address": "123 Wayne Drive, Gotham, NJ 88888"}
+New Data ID Returned: 98
+================================
+New Data Added: {"name": "Clark Kent", "phone": "+1 (555) 555-0002", "contact_address": "321 Bugal Lane, Metropolis, NY 11111"}
+New Data ID Returned: 99
+================================
+New Data Added: {"name": "Peter Parker", "phone": "+1 (555) 555-0003", "contact_address": "20 Ingram Street, New York, NY 11427"}
+New Data ID Returned: 100
+================================
+New Data Added: {"name": "Bruce Banner", "phone": "+1 (555) 555-0004", "contact_address": "1682 Anywhere Avenue, San Fransico, CA, 99856"}
+New Data ID Returned: 101
+================================
+New Data Added: {"name": "Steve Rodgers", "phone": "+1 (555) 555-0005", "contact_address": "762 Freedom Lane, Chicago, IL 12365"}
+New Data ID Returned: 102
+================================
+Task Completed
